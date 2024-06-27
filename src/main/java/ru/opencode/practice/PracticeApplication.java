@@ -1,13 +1,13 @@
-package ru.opencode.practice.demo;
+package ru.opencode.practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class PracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(PracticeApplication.class, args);
 	}
 
 }
